@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+openpyxl
+scikit-learn
+transformers
+torch
